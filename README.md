@@ -18,4 +18,17 @@ pkg install python -y
 
 pkg install git -y
 
-git clone 
+git clone https://github.com/Darkboy-creater/Webcamhacker.git
+
+
+
+cd Webcamhacker
+
+
+is
+
+
+python webcamhack_00.py
+
+
+enter 
