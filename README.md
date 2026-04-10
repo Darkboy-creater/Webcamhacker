@@ -6,29 +6,37 @@ How to hack your victim camera ?
 
 
 
-rm webcamhack_00.py
-
-
-apt update 
-
-apt upgrade -y
-
-pkg install python -y
-
-
-pkg install git -y
-
-git clone https://github.com/Darkboy-creater/Webcamhacker.git
 
 
 
-cd Webcamhacker
 
 
-is
+
+    rm webcamhack_00.py
 
 
-python webcamhack_00.py
+    apt update 
+
+    apt upgrade -y
+
+    pkg install python -y
 
 
-enter 
+
+    pkg install git -y
+
+
+    git clone https://github.com/Darkboy-creater/Webcamhacker.git
+
+
+
+    cd Webcamhacker
+
+
+    is
+
+
+    python webcamhack_00.py
+
+
+    enter 
